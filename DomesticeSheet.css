@@ -1,0 +1,10 @@
+textarea{
+  width:500px;
+  height:500px;
+  border-radius: 100%;
+  padding: 110px
+}
+
+li{
+  color: lightseagreen;
+}
